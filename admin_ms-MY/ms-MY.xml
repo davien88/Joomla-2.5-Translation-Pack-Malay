@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile version="2.5" client="administrator">
-	<name>Bahasa Malaysia</name>
-	<version>2.5.10.1</version>
-	<creationDate>2013-7-5</creationDate>
-	<author>Jamaludin Rajalu Multimedia UKM</author>
-	<authorEmail>multimedia@ptm.ukm.my</authorEmail>
-	<authorUrl>www.ukm.my</authorUrl>
-	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved.</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<description>ms-MY administrator language</description>
+<metafile version="1.6" client="administrator" >
+	<tag>ms-MY</tag>
+	<name>Bahasa Malaysia (Malaysia)</name>
+	<description>Pakej Bahasa Malaysia (ms-MY) untuk Joomla! 2.5</description>
+	<version>2.5.11</version>
+	<creationDate>2013-07-05</creationDate>
+	<author>Jamalaudin Rajalu</author>
+	<authorEmail>jrajalu@gmail.com</authorEmail>
+	<authorUrl>http://github.com/multimediaukm</authorUrl>
+	<copyright>Copyright (C) 2005 - 2013 Open Source Matters. All rights reserved.</copyright>
+	<copyright></copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<metadata>
-		<name>Bahasa Malaysia</name>
+		<name>Bahasa Malaysia (Malaysia)</name>
 		<tag>ms-MY</tag>
 		<rtl>0</rtl>
-		<locale>ms_MY.utf8, ms_MY.UTF-8, ms_MY, ms, bahasa malaysia, malay</locale>
+		<locale>ms_MY.utf8, ms_MY.UTF-8, ms_MY, ms-MY, ms, bahasa malaysia</locale>
 		<firstDay>0</firstDay>
 	</metadata>
 	<params />
