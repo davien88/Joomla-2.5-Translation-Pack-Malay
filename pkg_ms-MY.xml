@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="2.5">
+<name>Pakej Bahasa Malaysia ms-MY</name>
+<packagename>ms-MY</packagename>
+<version>2.5.10.1</version>
+<url></url>
+<packager></packager>
+<packagerurl></packagerurl>
+<description>Pakej Bahasa Malaysia (ms-MY) untuk Joomla! 2.5.10.1 </description>
+<files>
+        <file type="language" client="administrator" id="ms-MY">admin_ms-MY.zip</file>
+        <file type="language" client="site" id="ms-MY">site_ms-MY.zip</file>
+</files>
+<updateservers>
+<server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist.xml</server>
+</updateservers>
+</extension>
