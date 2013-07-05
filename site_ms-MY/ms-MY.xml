@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="2.5" client="site">
+	<name>Bahasa Malaysia</name>
+	<version>2.5.10.1</version>
+	<creationDate>2013-7-5</creationDate>
+	<author>Jamaludin Rajalu Multimedia UKM</author>
+	<authorEmail>multimedia@ptm.ukm.my</authorEmail>
+	<authorUrl>www.ukm.my</authorUrl>
+	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>ms-MY administrator language</description>
+	<metadata>
+		<name>Bahasa Malaysia</name>
+		<tag>ms-MY</tag>
+		<rtl>0</rtl>
+		<locale>ms_MY.utf8, ms_MY.UTF-8, ms_MY, ms, bahasa malaysia, malay</locale>
+		<firstDay>0</firstDay>
+	</metadata>
+	<params />
+</metafile>

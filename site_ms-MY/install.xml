@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" client="site" type="language" method="upgrade">
+	<name>Bahasa Malaysia</name>
+    <tag>ms-MY</tag>
+    <version>2.5.10.1</version>
+    <creationDate>2012-7-5</creationDate>
+    <author>Jamaludin Rajalu Multimedia UKM</author>
+    <authorEmail>multimedia@ptm.ukm.my</authorEmail>
+    <authorUrl>www.ukm.my</authorUrl>
+    <copyright>Hak Cipta (C) 2005 - 2012 Joomla Open Source Matters. Semua Hak dilindungi</copyright>
+    <license>Lisensi GNU General Public versi 2 atau lebih tinggi; lihat LICENSE.txt</license>
+    <description>Paket Bahasa Indonesia untuk Joomla! 2.5</description>
+    <files>
+
+    </files>
+    <params />
+</extension>
