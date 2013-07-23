@@ -3,15 +3,67 @@
 	<name>Bahasa Malaysia</name>
     <tag>ms-MY</tag>
     <version>2.5.10.1</version>
-    <creationDate>2012-7-5</creationDate>
-    <author>Jamaludin Rajalu Multimedia UKM</author>
+    <creationDate>2012-07-23</creationDate>
+    <author>Multimedia UKM</author>
     <authorEmail>multimedia@ptm.ukm.my</authorEmail>
     <authorUrl>www.ukm.my</authorUrl>
     <copyright>Hak Cipta (C) 2005 - 2012 Joomla Open Source Matters. Semua Hak dilindungi</copyright>
-    <license>Lisensi GNU General Public versi 2 atau lebih tinggi; lihat LICENSE.txt</license>
-    <description>Paket Bahasa Indonesia untuk Joomla! 2.5</description>
+    <license>Lesen GNU General Public versi 2 atau lebih tinggi; lihat LICENSE.txt</license>
+    <description>Pakej Bahasa Malaysia untuk Joomla! 2.5</description>
     <files>
-
+        <filename>index.html</filename>
+        <filename>ms-MY.com_newsfeeds.ini</filename>
+        <filename>ms-MY.com_search.ini</filename>
+        <filename>ms-MY.com_wrapper.ini</filename>
+        <filename>ms-MY.files_joomla.sys.ini</filename>
+        <filename>ms-MY.lib_joomla.sys.ini</filename>
+        <filename>ms-MY.lib_phpmailer.sys.ini</filename>
+        <filename>ms-MY.lib_phputf8.sys.ini</filename>
+        <filename>ms-MY.lib_simplepie.sys.ini</filename>
+        <filename>ms-MY.localise.php</filename>
+        <filename>ms-MY.mod_articles_archive.ini</filename>
+        <filename>ms-MY.mod_articles_archive.sys.ini</filename>
+        <filename>ms-MY.mod_articles_categories.ini</filename>
+        <filename>ms-MY.mod_articles_categories.sys.ini</filename>
+        <filename>ms-MY.mod_articles_category.sys.ini</filename>
+        <filename>ms-MY.mod_articles_latest.sys.ini</filename>
+        <filename>ms-MY.mod_articles_news.sys.ini</filename>
+        <filename>ms-MY.mod_articles_popular.ini</filename>
+        <filename>ms-MY.mod_articles_popular.sys.ini</filename>
+        <filename>ms-MY.mod_banners.sys.ini</filename>
+        <filename>ms-MY.mod_breadcrumbs.ini</filename>
+        <filename>ms-MY.mod_breadcrumbs.sys.ini</filename>
+        <filename>ms-MY.mod_custom.ini</filename>
+        <filename>ms-MY.mod_custom.sys.ini</filename>
+        <filename>ms-MY.mod_feed.sys.ini</filename>
+        <filename>ms-MY.mod_finder.sys.ini</filename>
+        <filename>ms-MY.mod_footer.ini</filename>
+        <filename>ms-MY.mod_footer.sys.ini</filename>
+        <filename>ms-MY.mod_languages.sys.ini</filename>
+        <filename>ms-MY.mod_login.sys.ini</filename>
+        <filename>ms-MY.mod_menu.ini</filename>
+        <filename>ms-MY.mod_menu.sys.ini</filename>
+        <filename>ms-MY.mod_random_image.ini</filename>
+        <filename>ms-MY.mod_random_image.sys.ini</filename>
+        <filename>ms-MY.mod_related_items.ini</filename>
+        <filename>ms-MY.mod_related_items.sys.ini</filename>
+        <filename>ms-MY.mod_search.sys.ini</filename>
+        <filename>ms-MY.mod_stats.sys.ini</filename>
+        <filename>ms-MY.mod_syndicate.ini</filename>
+        <filename>ms-MY.mod_syndicate.sys.ini</filename>
+        <filename>ms-MY.mod_users_latest.ini</filename>
+        <filename>ms-MY.mod_users_latest.sys.ini</filename></filename>
+        <filename>ms-MY.mod_weblinks.sys.ini</filename></filename>
+        <filename>ms-MY.mod_whosonline.sys.ini</filename></filename>
+        <filename>ms-MY.mod_wrapper.ini</filename></filename>
+        <filename>ms-MY.mod_wrapper.sys.ini</filename></filename>
+        <filename>ms-MY.pkg_joomla.sys.ini</filename></filename>
+        <filename>ms-MY.tpl_atomic.ini</filename></filename>
+        <filename>ms-MY.tpl_atomic.sys.ini</filename></filename>
+        <filename>ms-MY.tpl_beez_20.sys.ini</filename></filename>
+        <filename>ms-MY.tpl_beez5.sys.ini</filename></filename>
+        <filename file="meta">install.xml</filename>
+        <filename file="meta">ms-MY.xml</filename>
     </files>
     <params />
 </extension>

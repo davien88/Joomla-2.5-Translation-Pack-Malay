@@ -1,1 +1,0 @@
-### Senarai fail untuk Administrator
