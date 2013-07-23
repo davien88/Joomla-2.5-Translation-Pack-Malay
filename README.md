@@ -8,10 +8,10 @@ Dijayakan dengan kerjasama Pasukan Penterjemah Bahagian Multimedia dan Teknologi
 Kerja-kerja terjemahan masih berjalan. Versi kompilasi terkini boleh dimuat turun di sini:
 [ms-MY_joomla_lang_full_2.5.10v1.zip](https://raw.github.com/multimediaukm/Joomla-2.5-Translation-Pack-Malay/master/ms-MY_joomla_lang_full_2.5.10v1.zip) - 2013-07-24
 
-Terjemahan lengkap untuk Joomla! versi 3.1 boleh didapati di pautan repository berikut [Pakej Tejemahan Bahasa Malaysia Joomla! 3.1](https://github.com/multimediaukm/Joomla-3.1-Translation-Pack-Malay).
+Terjemahan lengkap untuk Joomla! versi 3.1 boleh didapati di pautan repository berikut [Pakej Terjemahan Bahasa Malaysia Joomla! 3.1](https://github.com/multimediaukm/Joomla-3.1-Translation-Pack-Malay).
 
 ### Pemasangan
-Pergi ke menu Extensions > Extension Manager:
+Pergi ke menu Extensions > Extension Manager:<br/>
 Upload Package File dan klik butang "Upload & Install".
 
 ### Kerjasama
