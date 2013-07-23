@@ -5,7 +5,8 @@ Terjemahan berpandukan pakej asal English (en-GB).
 Dijayakan dengan kerjasama Pasukan Penterjemah Bahagian Multimedia dan Teknologi Pendidikan, Pusat Teknologi Maklumat, [Universiti Kebagsaan Malaysia](http://www.ukm.my).
 
 ### Muat Turun
-Kerja-kerja terjemahan masih berjalan. Versi kompilasi terkini boleh dimuat turun di sini: [ms-MY_joomla_lang_full_2.5.10v1.zip](https://raw.github.com/multimediaukm/Joomla-2.5-Translation-Pack-Malay/master/ms-MY_joomla_lang_full_2.5.10v1.zip)
+Kerja-kerja terjemahan masih berjalan. Versi kompilasi terkini boleh dimuat turun di sini:
+[ms-MY_joomla_lang_full_2.5.10v1.zip](https://raw.github.com/multimediaukm/Joomla-2.5-Translation-Pack-Malay/master/ms-MY_joomla_lang_full_2.5.10v1.zip) - 2013-07-24
 
 ### Kerjasama
 Kami mengalu-alukan kolaborasi dari anda. Sekiranya berkeinginan untuk menyumbang tenaga untuk terjemahan, boleh memohon di twitter [@jrajalu](https://www.twitter.com/jrajalu).
