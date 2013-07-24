@@ -1,1 +1,1 @@
-### Senarai fail untuk Administrator
+Terjemahan berpandukan pakej Bahasa Inggeris (en-GB)
