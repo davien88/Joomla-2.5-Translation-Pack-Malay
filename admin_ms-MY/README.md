@@ -1,1 +1,4 @@
-Terjemahan berpandukan pakej Bahasa Inggeris (en-GB)
+; Multimedia UKM - Joomla! Malaysia
+; Copyright (C) 2005 - 2013 Open Source Matters. All rights reserved.
+; License GNU General Public License version 2 or later; see LICENSE.txt, see LICENSE.php
+; Note : All ini files need to be saved as UTF-8
