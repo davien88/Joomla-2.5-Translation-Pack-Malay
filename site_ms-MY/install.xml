@@ -52,16 +52,16 @@
         <filename>ms-MY.mod_syndicate.ini</filename>
         <filename>ms-MY.mod_syndicate.sys.ini</filename>
         <filename>ms-MY.mod_users_latest.ini</filename>
-        <filename>ms-MY.mod_users_latest.sys.ini</filename></filename>
-        <filename>ms-MY.mod_weblinks.sys.ini</filename></filename>
-        <filename>ms-MY.mod_whosonline.sys.ini</filename></filename>
-        <filename>ms-MY.mod_wrapper.ini</filename></filename>
-        <filename>ms-MY.mod_wrapper.sys.ini</filename></filename>
-        <filename>ms-MY.pkg_joomla.sys.ini</filename></filename>
-        <filename>ms-MY.tpl_atomic.ini</filename></filename>
-        <filename>ms-MY.tpl_atomic.sys.ini</filename></filename>
-        <filename>ms-MY.tpl_beez_20.sys.ini</filename></filename>
-        <filename>ms-MY.tpl_beez5.sys.ini</filename></filename>
+        <filename>ms-MY.mod_users_latest.sys.ini</filename>
+        <filename>ms-MY.mod_weblinks.sys.ini</filename>
+        <filename>ms-MY.mod_whosonline.sys.ini</filename>
+        <filename>ms-MY.mod_wrapper.ini</filename>
+        <filename>ms-MY.mod_wrapper.sys.ini</filename>
+        <filename>ms-MY.pkg_joomla.sys.ini</filename>
+        <filename>ms-MY.tpl_atomic.ini</filename>
+        <filename>ms-MY.tpl_atomic.sys.ini</filename>
+        <filename>ms-MY.tpl_beez_20.sys.ini</filename>
+        <filename>ms-MY.tpl_beez5.sys.ini</filename>
         <filename file="meta">install.xml</filename>
         <filename file="meta">ms-MY.xml</filename>
     </files>
